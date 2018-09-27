@@ -1,6 +1,6 @@
 {
   "name": "sudao-cli1",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "速道小程序简单脚手架",
   "main": "index.js",
   "bin": {
