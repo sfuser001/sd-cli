@@ -4,7 +4,7 @@
   "description": "速道小程序简单脚手架",
   "main": "index.js",
   "bin": {
-    "sd": "index.js"
+    "sd-cli": "index.js"
   },
   "dependencies": {
     "chalk": "^2.4.1",
